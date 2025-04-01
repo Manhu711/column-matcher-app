@@ -1,0 +1,2 @@
+abbreviation_rag/*.faiss filter=lfs diff=lfs merge=lfs -text
+abbreviation_rag/*.pkl filter=lfs diff=lfs merge=lfs -text

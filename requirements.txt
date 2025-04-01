@@ -1,0 +1,6 @@
+streamlit>=1.22.0
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+requests 
